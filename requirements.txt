@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+ray
+jupyterlab
+ipywidgets
+python-dotenv
+SQLAlchemy
